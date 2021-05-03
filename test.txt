@@ -1,1 +1,2 @@
 # Projekt IO test
+drugi commit dla sprawdzenia działania
